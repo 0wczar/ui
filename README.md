@@ -30,7 +30,7 @@ No roadmap for now. I'll post this as soon as we have the first component up.
 
 ### What do you mean *NOT a component library*?
 
-This means you do not install the components via your package manager. This means the components are not versioned.
+This means you do not install the components via a package manager. This also means the components are not versioned.
 
 You copy and paste into your project. The code is yours.
 
