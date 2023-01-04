@@ -9,6 +9,14 @@ See the original tweet: https://twitter.com/shadcn/status/1606334699613261825
 
 ![QuDrtLKu](https://user-images.githubusercontent.com/124599/210561970-2e9e6a72-870a-4897-ab0b-b89829be8983.png)
 
+## Features
+
+- Primitives from Radix UI
+- Styled using Tailwind CSS
+- Default Icons from [Lucide](https://lucide.dev)
+- Works with React Server Components, Client Components (`use client`) and Next.js 13.
+- Dark Mode
+
 ## How does it work
 
 1. Visit the components page.
