@@ -9,6 +9,12 @@ See the original tweet: https://twitter.com/shadcn/status/1606334699613261825
 
 ![QuDrtLKu](https://user-images.githubusercontent.com/124599/210561970-2e9e6a72-870a-4897-ab0b-b89829be8983.png)
 
+## Where's the code?
+
+> **Warning**
+> I'm still working on the first components. I'll push the code by end of January 2023. You can follow the progress on Twitter [@shadcn](https://twitter.com/shadcn).
+
+
 ## Features
 
 - Primitives from Radix UI
@@ -23,12 +29,6 @@ See the original tweet: https://twitter.com/shadcn/status/1606334699613261825
 2. Copy the primitives (which comes with great Tailwind CSS defaults).
 3. Paste into your project.
 4. *Adjust to taste*
-
-## Where's the code?
-
-> **Warning**
-> This is work in progress. I'm building this in public. You can follow the progress on Twitter [@shadcn](https://twitter.com/shadcn).
-> See the roadmap below.
 
 ## Roadmap
 
